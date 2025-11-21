@@ -59,7 +59,7 @@ export function Navbar(props) {
               {/* Logo */}
               <div className="flex items-center">
                 <div className="flex-shrink-0">
-                  <h1 className="text-xl font-bold text-indigo-600">文件处理中心</h1>
+                  <h1 className="text-xl font-bold text-indigo-600">图片处理中心</h1>
                 </div>
               </div>
 
