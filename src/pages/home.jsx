@@ -128,7 +128,7 @@ export default function Home(props) {
                   <Image className="h-10 w-10 text-white" />
                 </div>
                 <h1 className="text-5xl font-bold text-gray-800 mb-4">
-                  AI图片处理专家
+                  AI图片处理
                 </h1>
                 <p className="text-xl text-gray-600 max-w-3xl mx-auto mb-8">
                   运用前沿AI技术，为您提供专业级的图片处理服务
